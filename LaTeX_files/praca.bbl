@@ -1,0 +1,243 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{mobile_robot}{book}{}
+    \name{author}{1}{}{%
+      {{hash=THKJTH}{%
+         family={Tlijani\bibnamedelima Hayet},
+         familyi={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+         suffix={Tlijani\bibnamedelima Hatem},
+         suffixi={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+         given={Knani\bibnamedelima Jilani},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{THTHKJ1}
+    \strng{fullhash}{THTHKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Navigation Control of a Mobile Robot under Time Constraint
+  using Genetic Algorithms, CSP Techniques, and Fuzzy Logic}
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Tunis, Tunisia}%
+    }
+    \list{institution}{1}{%
+      {Electrical Department, National Engineering School of Tunis}%
+    }
+    \field{year}{2015}
+  \endentry
+
+  \entry{ROS}{book}{}
+    \name{author}{1}{}{%
+      {{hash=YPRJTLHC}{%
+         family={YoonSeok\bibnamedelima Pyo},
+         familyi={Y\bibinitperiod\bibinitdelim P\bibinitperiod},
+         suffix={HanCheol\bibnamedelima Cho},
+         suffixi={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={RyuWoon Jung TaeHoon\bibnamedelima Lim},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  T\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ROBOTIS Co.,Ltd.}%
+    }
+    \strng{namehash}{YPHCRJTL1}
+    \strng{fullhash}{YPHCRJTL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{ROS Robot Programming}
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Seoul, Republic of Korea}%
+    }
+    \field{year}{2017}
+  \endentry
+
+  \entry{ROS_goals}{book}{}
+    \name{author}{1}{}{%
+      {{hash=QM}{%
+         family={Quigley},
+         familyi={Q\bibinitperiod},
+         given={Morgan},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Computer Science Department, Stanford University}%
+    }
+    \strng{namehash}{QM1}
+    \strng{fullhash}{QM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{ROS: an open-source Robot Operating System}
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Stanford, CA}%
+    }
+    \field{year}{2009}
+  \endentry
+
+  \entry{P2P}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PK}{%
+         family={Piech},
+         familyi={P\bibinitperiod},
+         given={Krzysztof},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PK1}
+    \strng{fullhash}{PK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Leksykon pojęć na temat technologii blockchain i
+  kryptowalut}
+    \field{langid}{polish}
+    \field{year}{2016}
+  \endentry
+
+  \entry{turtlebot3}{manual}{}
+    \field{labeltitlesource}{title}
+    \field{note}{Strona domowa platformy turtlebot3}
+  \field{title}{http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/}
+  \endentry
+
+  \entry{turtlebot}{manual}{}
+    \field{labeltitlesource}{title}
+    \field{note}{Strona domowa robotów turtlebot}
+    \field{title}{https://www.turtlebot.com}
+  \endentry
+
+  \entry{Outdoor_robot}{manual}{}
+    \field{labeltitlesource}{title}
+    \field{note}{4WD Outdoor Mobile Platform}
+    \field{title}{https://www.dfrobot.com/product-94.html}
+  \endentry
+
+  \entry{pid_continous}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HOBPRSRS}{%
+         family={Hari Om\bibnamedelima Bansal},
+         familyi={H\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+         suffix={Rajamayyoor\bibnamedelima Sharma},
+         suffixi={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={P.\bibnamedelima R.\bibnamedelima Shreeraman},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HOBRSPRS1}
+    \strng{fullhash}{HOBRSPRS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{PID Controller Tuning Techniques: A Review}
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Pilani, India}%
+    }
+    \list{institution}{3}{%
+      {Electrical}%
+      {Electronics Engineering Department, Birla Institute of Technology}%
+      {Science}%
+    }
+    \field{year}{2012}
+  \endentry
+
+  \entry{pid_discrete}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MMPO}{%
+         family={MARIUSZ\bibnamedelima MATUSIAK},
+         familyi={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={PIOTR\bibnamedelima OSTALCZYK},
+         giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MMPO1}
+    \strng{fullhash}{MMPO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Problems in solving fractional differential equations in a
+  microcontroller implementation of an FOPID controller}
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Poland, Łódź}%
+    }
+    \list{institution}{1}{%
+      {Institute of Applied Computer Science, Lodz University of Technology}%
+    }
+    \field{year}{2019}
+  \endentry
+
+  \entry{wheels_vel}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HT}{%
+         family={Hellström},
+         familyi={H\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Department of Computing Science, Umeå University}%
+    }
+    \strng{namehash}{HT1}
+    \strng{fullhash}{HT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Kinematics Equations for Differential Drive and Articulated
+  Steering}
+    \field{langid}{english}
+    \field{year}{2011}
+  \endentry
+
+  \entry{encoder_quad}{manual}{}
+    \field{labeltitlesource}{title}
+    \field{note}{Enkoder kwadraturowy}
+  \field{title}{https://www.dynapar.com/technology/encoder\_basics/quadrature\_encoder/}
+  \endentry
+
+  \entry{encoder_velocity}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RPLPMZMT}{%
+         family={Roberto\bibnamedelima PETRELLA},
+         familyi={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+         suffix={Marco\bibnamedelima TURSINI},
+         suffixi={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+         given={Luca PERETTI Mauro\bibnamedelima ZIGLIOTTO},
+         giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  M\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{RPMTLPMZ1}
+    \strng{fullhash}{RPMTLPMZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Speed Measurement Algorithms for Low-Resolution Incremental
+  Encoder Equipped Drives: a Comparative Analysis}
+    \field{langid}{english}
+    \field{year}{2007}
+  \endentry
+\enddatalist
+\endinput

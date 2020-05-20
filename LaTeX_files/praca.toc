@@ -1,0 +1,65 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {polish}{}
+\contentsline {chapter}{\numberline {1}Wspęp}{7}%
+\contentsline {section}{\numberline {1.1}Cel i założenia pracy}{7}%
+\contentsline {section}{\numberline {1.2}Układ pracy}{7}%
+\contentsline {chapter}{\numberline {2}Wprowadzenie teoretyczne}{9}%
+\contentsline {section}{\numberline {2.1}Roboty mobilne}{9}%
+\contentsline {section}{\numberline {2.2}Napęd różnicowy}{10}%
+\contentsline {section}{\numberline {2.3}Robot Operating System}{10}%
+\contentsline {section}{\numberline {2.4}TurtleBot}{11}%
+\contentsline {chapter}{\numberline {3}Konstrukcja robota}{13}%
+\contentsline {section}{\numberline {3.1}Komunikacja podzespołów}{13}%
+\contentsline {section}{\numberline {3.2}Układ napędowy}{15}%
+\contentsline {subsection}{\numberline {3.2.1}Silniki prądu stałego}{15}%
+\contentsline {subsection}{\numberline {3.2.2}Koła}{16}%
+\contentsline {section}{\numberline {3.3}Układ sterujący}{16}%
+\contentsline {subsection}{\numberline {3.3.1}Układ mocy}{16}%
+\contentsline {subsection}{\numberline {3.3.2}Mikrokontroler}{18}%
+\contentsline {subsection}{\numberline {3.3.3}Sterownik główny i zdalny komputer}{19}%
+\contentsline {section}{\numberline {3.4}Układ pomiarowy}{21}%
+\contentsline {subsection}{\numberline {3.4.1}System wizyjny}{21}%
+\contentsline {subsection}{\numberline {3.4.2}Jednostka inercyjna}{21}%
+\contentsline {subsection}{\numberline {3.4.3}Lidar}{22}%
+\contentsline {section}{\numberline {3.5}Zasilanie}{23}%
+\contentsline {chapter}{\numberline {4}Oprograowanie sterownika silników}{25}%
+\contentsline {section}{\numberline {4.1}Zadawanie i stabilizacja prędkości}{25}%
+\contentsline {subsection}{\numberline {4.1.1}Wartość zadana}{26}%
+\contentsline {subsection}{\numberline {4.1.2}Wartość pomiarowa}{28}%
+\contentsline {section}{\numberline {4.2}Odometria}{29}%
+\contentsline {section}{\numberline {4.3}Jednostka inercyjna}{29}%
+\contentsline {chapter}{\numberline {5}Komunikacja między wątkowa w środowisku ROS}{31}%
+\contentsline {section}{\numberline {5.1}Komunikacja jednostki zdalnej}{31}%
+\contentsline {subsection}{\numberline {5.1.1}Sterowanie w wykorzystaniem klawiatury}{31}%
+\contentsline {subsection}{\numberline {5.1.2}Sterowanie z wykrorzystaniem joysticka}{32}%
+\contentsline {subsection}{\numberline {5.1.3}Sterowanie z wykorzystaniem środowiska MATLAB}{32}%
+\contentsline {section}{\numberline {5.2}Komunikacja jednostki pokładowej}{33}%
+\contentsline {subsection}{\numberline {5.2.1}Komunikacja systemu wizyjnego}{33}%
+\contentsline {subsection}{\numberline {5.2.2}Komunikacja Lidaru}{33}%
+\contentsline {subsection}{\numberline {5.2.3}Komunikacja sterownika silnika}{33}%
+\contentsline {subsubsection}{\numberline {5.2.3.1}Tematy subskrybowane przez sterownik silników}{33}%
+\contentsline {subsubsection}{\numberline {5.2.3.2}Wiadomości publikowane przez sterownik silników }{34}%
+\contentsline {chapter}{\numberline {6}Testy}{35}%
+\contentsline {section}{\numberline {6.1}Test działania sterowania}{35}%
+\contentsline {subsection}{\numberline {6.1.1}Zadawanie prędkości liniowej}{35}%
+\contentsline {subsection}{\numberline {6.1.2}Zadawanie prędkości kątowej}{35}%
+\contentsline {section}{\numberline {6.2}Test działania jednostki inercyjnej}{35}%
+\contentsline {section}{\numberline {6.3}odometria}{35}%
+\contentsline {section}{\numberline {6.4}Test mapowania pomieszczenia}{35}%
+\contentsline {section}{\numberline {6.5}nie wiem co jeszcze}{35}%
+\babel@toc {english}{}
+\babel@toc {polish}{}
+\babel@toc {english}{}
+\babel@toc {polish}{}
+\babel@toc {english}{}
+\babel@toc {polish}{}
+\babel@toc {polish}{}
+\babel@toc {polish}{}
+\babel@toc {english}{}
+\babel@toc {polish}{}
+\babel@toc {english}{}
+\babel@toc {polish}{}
+\babel@toc {english}{}
+\babel@toc {polish}{}
+\babel@toc {english}{}
+\babel@toc {polish}{}
